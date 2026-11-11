@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "minSupportedVersionCode": 1,
+  "releaseDate": "2026-11-11",
+  "downloadUrl": "https://github.com/Rajat-Solankii/SoundWavePc/releases/download/v1.0.0/SoundWave-1.0.0.msi",
+  "releasePage": "https://github.com/Rajat-Solankii/SoundWavePc/releases/tag/v1.0.0",
+  "notes": [
+    "First version of SoundWave for Windows."
+  ]
+}
