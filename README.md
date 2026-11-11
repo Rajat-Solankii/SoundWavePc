@@ -21,6 +21,13 @@ file the app reads to find out whether a newer version exists.
 - 10-band equalizer, sleep timer, mini player, close-to-tray
 - Windows media keys and the Windows media overlay
 
+## Jam invite links
+
+SoundWave registers `soundwave://` links for your Windows user. When you open a Jam invite page and
+choose the app link (`soundwave://jam/…`), your browser asks whether to open SoundWave; the app
+comes to the front with the invite filled in, and you press **Join**. If SoundWave is already
+running, the link goes to that window instead of starting a second copy.
+
 ## Requirements
 
 - Windows 10 or 11, 64-bit
