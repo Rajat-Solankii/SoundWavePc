@@ -3,9 +3,12 @@
   "versionCode": 1,
   "minSupportedVersionCode": 1,
   "releaseDate": "2026-11-11",
-  "downloadUrl": "https://github.com/Rajat-Solankii/SoundWavePc/releases/download/v1.0.0/SoundWave-1.0.0.msi",
+  "downloadUrl": "https://github.com/Rajat-Solankii/SoundWavePc/releases/download/v1.0.0/SoundWave-Setup.exe",
   "releasePage": "https://github.com/Rajat-Solankii/SoundWavePc/releases/tag/v1.0.0",
   "notes": [
-    "First version of SoundWave for Windows."
+    "YouTube Music and JioSaavn, plus the music files on your PC",
+    "Jam: listen together with friends on Windows or Android, in sync",
+    "Synced lyrics, 10-band equalizer, mini player and media keys",
+    "Lite mode for older PCs, and a Data saver audio quality"
   ]
 }
